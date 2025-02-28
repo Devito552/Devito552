@@ -27,8 +27,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<img height = "150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devito552&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="Devito552" />
-<img height = "150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devito552&theme=dark&count_private=true" alt="Devito552" />
+<img height = "170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devito552&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="Devito552" />
+<img height = "170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devito552&theme=dark&count_private=true" alt="Devito552" />
 
  
 
