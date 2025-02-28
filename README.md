@@ -1,38 +1,39 @@
-#👋 Olá, eu sou Guilherme Devito!
+# 👋 Olá, eu sou Guilherme Devito!
 
 Bem-vindo ao meu perfil! Sou professor, desenvolvedor e criador de conteúdo, apaixonado por tecnologia, ensino e inovação. Trabalho com desenvolvimento de software, automação, impressão 3D e ensino de programação. No meu tempo livre, gosto de explorar novas tecnologias e compartilhar conhecimento por meio do meu canal no YouTube.
 
-#🚀 Tecnologias e Ferramentas
+# 🚀 Tecnologias e Ferramentas
 
-📱 Desenvolvimento Mobile
 
-Flutter
+<h2>📱 Desenvolvimento Mobile</h2>
 
-Dart
+- Flutter  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width=20 height=20/>
 
-🌐 Desenvolvimento Web e Backend
+- Dart  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width=20 height=20/>
+<br>
+<h2>🌐 Desenvolvimento Web e Backend</h2>
 
-HTML5, CSS3, JavaScript
+- HTML5 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=20 height=20/>
+- CSS3 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width=20 height=20/>
+- JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=20 height=20/>
+- Node.js <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width=20 height=20/>
+- MySQL <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=20 height=20/>
+<br>
+<h2>🔌 Automação e IoT</h2>
 
-Node.js
+- ESP32
+- Arduino
+- Raspberry Pi
+- Arduino Cloud
+- Blynk
+<br>
+  <h2>📊 Análise de Dados</h2>
 
-MySQL
+- Power BI
+- Excel Avançado
 
-#🔌 Automação e IoT
-
-ESP32, Arduino
-
-Sensores de umidade, temperatura e chuva
-
-Integração com Arduino Cloud e Blynk
-
-#📊 Análise de Dados
-
-Power BI
-
-Excel Avançado
-
-#📌 Principais Projetos
+<br>
+<h2>📌 Principais Projetos</h2>
 
 🔹 Fusion 360 para Impressão 3D
 
@@ -50,7 +51,9 @@ Automação utilizando ESP32, sensores capacitivos de umidade e integração com
 
 Jogo interativo desenvolvido em Flutter, focado em aprendizado e experiência do usuário.
 
-#🎯 Objetivos e Interesses
+<br>
+
+<h2>🎯 Objetivos e Interesses</h2>
 
 Melhorar minhas habilidades em Flutter e desenvolvimento mobile.
 
@@ -60,21 +63,23 @@ Criar conteúdo educacional sobre tecnologia e programação.
 
 Desenvolver um aplicativo de realidade aumentada para móveis planejados.
 
-#📺 Meu Canal no YouTube
+<br>
+
+<h2>📺 Meu Canal no YouTube</h2>
+
 
 No meu canal, compartilho tutoriais sobre desenvolvimento, automação e impressão 3D. Se você gosta desses temas, dá uma passada lá!
 
+<br>
 
+<h2>📊 Estatísticas do GitHub</h2>
+<div align = "left">
+<img height = "250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devito552&show_icons=true&theme=bear&count_private=true"/>
+<img height = "250em" src="https://github-readme-stats.vercel.app/api?username=Devito552&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
 
-#📊 Estatísticas do GitHub
+<br>
 
+<h3>🔹 Sempre aberto a novas ideias e colaborações!</h3>
 
-
-
-#📫 Contato
-
-
-
-
-🔹 Sempre aberto a novas ideias e colaborações!
 
