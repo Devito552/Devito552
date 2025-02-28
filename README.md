@@ -1,8 +1,8 @@
-👋 Olá, eu sou Guilherme Devito!
+#👋 Olá, eu sou Guilherme Devito!
 
 Bem-vindo ao meu perfil! Sou professor, desenvolvedor e criador de conteúdo, apaixonado por tecnologia, ensino e inovação. Trabalho com desenvolvimento de software, automação, impressão 3D e ensino de programação. No meu tempo livre, gosto de explorar novas tecnologias e compartilhar conhecimento por meio do meu canal no YouTube.
 
-🚀 Tecnologias e Ferramentas
+#🚀 Tecnologias e Ferramentas
 
 📱 Desenvolvimento Mobile
 
@@ -18,7 +18,7 @@ Node.js
 
 MySQL
 
-🔌 Automação e IoT
+#🔌 Automação e IoT
 
 ESP32, Arduino
 
@@ -26,13 +26,13 @@ Sensores de umidade, temperatura e chuva
 
 Integração com Arduino Cloud e Blynk
 
-📊 Análise de Dados
+#📊 Análise de Dados
 
 Power BI
 
 Excel Avançado
 
-📌 Principais Projetos
+#📌 Principais Projetos
 
 🔹 Fusion 360 para Impressão 3D
 
@@ -50,7 +50,7 @@ Automação utilizando ESP32, sensores capacitivos de umidade e integração com
 
 Jogo interativo desenvolvido em Flutter, focado em aprendizado e experiência do usuário.
 
-🎯 Objetivos e Interesses
+#🎯 Objetivos e Interesses
 
 Melhorar minhas habilidades em Flutter e desenvolvimento mobile.
 
@@ -60,18 +60,18 @@ Criar conteúdo educacional sobre tecnologia e programação.
 
 Desenvolver um aplicativo de realidade aumentada para móveis planejados.
 
-📺 Meu Canal no YouTube
+#📺 Meu Canal no YouTube
 
 No meu canal, compartilho tutoriais sobre desenvolvimento, automação e impressão 3D. Se você gosta desses temas, dá uma passada lá!
 
 
 
-📊 Estatísticas do GitHub
+#📊 Estatísticas do GitHub
 
 
 
 
-📫 Contato
+#📫 Contato
 
 
 
