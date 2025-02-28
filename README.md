@@ -1,5 +1,5 @@
 
-## 👋 Olá, eu sou Guilherme Devito! Sou professor no curso Tecnico de Desenvolvimento de Sistemas apaixonado por construir tecnologia, construir projetos mecanicos e ensinar e aprender novas tecnologias.
+## 👋 Olá, eu sou Guilherme Devito! Sou professor no curso Técnico de Desenvolvimento de Sistemas, apaixonado por construir tecnologia, desenvolver projetos mecânicos, ensinar e aprender novas tecnologias.
 
 ### 🛠 &nbsp;Tech Stack
 
