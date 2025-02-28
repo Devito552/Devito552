@@ -74,8 +74,8 @@ No meu canal, compartilho tutoriais sobre desenvolvimento, automação e impress
 
 <h2>📊 Estatísticas do GitHub</h2>
 <div align = "left">
-<img height = "250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devito552&show_icons=true&theme=bear&count_private=true"/>
-<img height = "250em" src="https://github-readme-stats.vercel.app/api?username=Devito552&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devito552&show_icons=true&theme=dark&count_private=true"/>
+<img height = "250em" src="https://github-readme-stats.vercel.app/api?username=Devito552&show_icons=true&show_icons=true&theme=dark&count_private=true" />
 </div>
 
 <br>
