@@ -5,7 +5,6 @@
 
 <br />
 
-![C#](https://img.shields.io/badge/C%23%20-292D3E?style=flat&logo=c-sharp&logoColor=884DC4)
 ![A.I.](https://img.shields.io/badge/-A.I.-292D3E?style=flat&logo=microsoft)&nbsp;
 ![Python](https://img.shields.io/badge/python-292D3E?style=flat&logo=python&logoColor=yellow)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-292D3E?style=flat&logo=microsoft-sql-server)&nbsp;
