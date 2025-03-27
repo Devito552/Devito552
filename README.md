@@ -26,9 +26,10 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<img height = "180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devito552&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="Devito552" />
-<img height = "180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devito552&theme=dark&count_private=true" alt="Devito552" />
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Devito552&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Devito github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devito552&layout=compact&hide_border=true&title_color=9400D3&text_color=c9d1d9&bg_color=0d1117"  alt="Devito github stats" />
+</div>
  
 
  
