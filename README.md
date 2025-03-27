@@ -28,7 +28,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Devito552&show_icons=true&count_private=true&hide_border=true&theme=holi" alt="Devito github stats" /> 
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devito552&layout=compact&hide_border=true&theme=holi"  alt="Devito github stats" />
+  <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devito552&layout=compact&hide_border=true&theme=holi"  alt="Devito github stats" />
 </div>
  
 
