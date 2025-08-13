@@ -38,7 +38,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devito552&show_icons=true&count_private=true&hide_border=true&theme=holi" alt="GitHub Stats" />
 
 <!-- Streak (dias consecutivos) -->
-<img width="49%" height="51%" src="https://streak-stats.demolab.com?user=Devito552&theme=holi-theme&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Devito552&theme=holi-theme&hide_border=true" alt="GitHub Streak" />
 
 <!-- Linguagens mais usadas -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devito552&layout=compact&hide_border=true&theme=holi" alt="Top Languages" />
