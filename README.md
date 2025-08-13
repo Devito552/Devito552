@@ -30,20 +30,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Devito552&show_icons=true&count_private=true&hide_border=true&theme=holi" alt="Devito GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devito552&layout=compact&hide_border=true&theme=holi"  alt="Devito top languages" />
+<div align="center">
+
+<!-- Estatísticas gerais -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devito552&show_icons=true&count_private=true&hide_border=true&theme=holi" alt="GitHub Stats" />
+
+<!-- Streak (dias consecutivos) -->
+<img width="49%" src="https://streak-stats.demolab.com?user=Devito552&theme=holi-theme&hide_border=true" alt="GitHub Streak" />
+
+<!-- Linguagens mais usadas -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devito552&layout=compact&hide_border=true&theme=holi" alt="Top Languages" />
+
+<!-- Gráfico de atividade -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devito552&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+
 </div>
 
----
-
-## 🚀 Projetos em Destaque
-
-- 🔹 **[Sistema de Autoavaliação Escolar](https://github.com/Devito552)** — Plataforma para avaliação de desempenho sem notas tradicionais.  
-- 🔹 **[Alimentador Automático IoT](https://github.com/Devito552)** — Controle via ESP8266, NEMA 17 e display OLED.  
-- 🔹 **[Site Educacional SENAI](https://github.com/Devito552)** — Demonstração interativa de ferramentas Google e Canva.  
 
 ---
 
