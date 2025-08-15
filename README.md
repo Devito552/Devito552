@@ -63,19 +63,6 @@
 
 ---
 
-## 🔥 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/Devito552/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devito552&repo=repo1&theme=react&hide_border=true" alt="Projeto 1" />
-  </a>
-  <a href="https://github.com/Devito552/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devito552&repo=repo2&theme=react&hide_border=true" alt="Projeto 2" />
-  </a>
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -114,14 +101,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devito552&theme=react" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devito552&theme=react" alt="Most Commit Language" />
-</div>
-
----
-
-## 🌟 Quote Inspiracional
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
 
 ---
